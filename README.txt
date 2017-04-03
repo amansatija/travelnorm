@@ -1,14 +1,13 @@
 
 TITLE: 
-Union - Multi-Purpose One Page Responsive Free HTML5 template
+Traveler - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by GetTemplates.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
 
 CREDITS:
 
@@ -27,14 +26,11 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Google Map
-http://maps.google.com/
-
 Icomoon
 https://icomoon.io/app/
 
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
+Themify Icons
+https://themify.me/themify-icons
 
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
@@ -48,14 +44,15 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
+jQuery countTo
+http://www.owlcarousel.owlgraphic.com/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+DatePickerPlugin
+https://github.com/eternicode/bootstrap-datepicker
 
 Demo Images:
-http://pexels.com
-Dribble demo image
-https://dribbble.com/tibi_neamu
+http://unsplash.com
 
-
-Mafnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
