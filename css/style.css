@@ -247,9 +247,9 @@ body {
   overflow-x: hidden;
 }
 
-.owl-carousel-main .owl-stage-outer {
+/*.owl-carousel-main .owl-stage-outer {
   overflow: visible;
-}
+}*/
 @media screen and (max-width: 768px) {
   .owl-carousel-main .item {
     padding-top: 120px !important;
